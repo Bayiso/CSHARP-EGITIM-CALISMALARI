@@ -1,0 +1,7 @@
+D:\C# Eğitim\NetFramework\NetFramework.S8.D1.OOPnedir\obj\Debug\NetFramework.S8.D1.OOPnedir.csprojAssemblyReference.cache
+D:\C# Eğitim\NetFramework\NetFramework.S8.D1.OOPnedir\obj\Debug\NetFramework.S8.D1.OOPnedir.csproj.CoreCompileInputs.cache
+D:\C# Eğitim\NetFramework\NetFramework.S8.D1.OOPnedir\bin\Debug\NetFramework.S8.D1.OOPnedir.exe.config
+D:\C# Eğitim\NetFramework\NetFramework.S8.D1.OOPnedir\bin\Debug\NetFramework.S8.D1.OOPnedir.exe
+D:\C# Eğitim\NetFramework\NetFramework.S8.D1.OOPnedir\bin\Debug\NetFramework.S8.D1.OOPnedir.pdb
+D:\C# Eğitim\NetFramework\NetFramework.S8.D1.OOPnedir\obj\Debug\NetFramework.S8.D1.OOPnedir.exe
+D:\C# Eğitim\NetFramework\NetFramework.S8.D1.OOPnedir\obj\Debug\NetFramework.S8.D1.OOPnedir.pdb

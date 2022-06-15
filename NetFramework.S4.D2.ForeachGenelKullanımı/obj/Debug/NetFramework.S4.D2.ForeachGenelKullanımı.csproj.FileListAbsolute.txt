@@ -1,0 +1,7 @@
+D:\C# Eğitim\NetFramework\NetFramework.S4.D2.ForeachGenelKullanımı\bin\Debug\NetFramework.S4.D2.ForeachGenelKullanımı.exe.config
+D:\C# Eğitim\NetFramework\NetFramework.S4.D2.ForeachGenelKullanımı\bin\Debug\NetFramework.S4.D2.ForeachGenelKullanımı.exe
+D:\C# Eğitim\NetFramework\NetFramework.S4.D2.ForeachGenelKullanımı\bin\Debug\NetFramework.S4.D2.ForeachGenelKullanımı.pdb
+D:\C# Eğitim\NetFramework\NetFramework.S4.D2.ForeachGenelKullanımı\obj\Debug\NetFramework.S4.D2.ForeachGenelKullanımı.csprojAssemblyReference.cache
+D:\C# Eğitim\NetFramework\NetFramework.S4.D2.ForeachGenelKullanımı\obj\Debug\NetFramework.S4.D2.ForeachGenelKullanımı.csproj.CoreCompileInputs.cache
+D:\C# Eğitim\NetFramework\NetFramework.S4.D2.ForeachGenelKullanımı\obj\Debug\NetFramework.S4.D2.ForeachGenelKullanımı.exe
+D:\C# Eğitim\NetFramework\NetFramework.S4.D2.ForeachGenelKullanımı\obj\Debug\NetFramework.S4.D2.ForeachGenelKullanımı.pdb

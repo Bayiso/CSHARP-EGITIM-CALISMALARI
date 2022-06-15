@@ -1,0 +1,6 @@
+D:\C# Eğitim\NetFramework\NetFramework.S2.D4.AtamaOperatorleri\bin\Debug\NetFramework.S2.D4.AtamaOperatorleri.exe.config
+D:\C# Eğitim\NetFramework\NetFramework.S2.D4.AtamaOperatorleri\bin\Debug\NetFramework.S2.D4.AtamaOperatorleri.exe
+D:\C# Eğitim\NetFramework\NetFramework.S2.D4.AtamaOperatorleri\bin\Debug\NetFramework.S2.D4.AtamaOperatorleri.pdb
+D:\C# Eğitim\NetFramework\NetFramework.S2.D4.AtamaOperatorleri\obj\Debug\NetFramework.S2.D4.AtamaOperatorleri.csproj.CoreCompileInputs.cache
+D:\C# Eğitim\NetFramework\NetFramework.S2.D4.AtamaOperatorleri\obj\Debug\NetFramework.S2.D4.AtamaOperatorleri.exe
+D:\C# Eğitim\NetFramework\NetFramework.S2.D4.AtamaOperatorleri\obj\Debug\NetFramework.S2.D4.AtamaOperatorleri.pdb

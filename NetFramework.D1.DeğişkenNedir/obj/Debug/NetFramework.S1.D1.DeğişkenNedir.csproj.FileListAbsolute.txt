@@ -1,0 +1,7 @@
+D:\C# Eğitim\NetFramework\NetFramework.D1.DeğişkenNedir\bin\Debug\NetFramework.D1.DeğişkenNedir.exe.config
+D:\C# Eğitim\NetFramework\NetFramework.D1.DeğişkenNedir\bin\Debug\NetFramework.D1.DeğişkenNedir.exe
+D:\C# Eğitim\NetFramework\NetFramework.D1.DeğişkenNedir\bin\Debug\NetFramework.D1.DeğişkenNedir.pdb
+D:\C# Eğitim\NetFramework\NetFramework.D1.DeğişkenNedir\obj\Debug\NetFramework.S1.D1.DeğişkenNedir.csproj.AssemblyReference.cache
+D:\C# Eğitim\NetFramework\NetFramework.D1.DeğişkenNedir\obj\Debug\NetFramework.S1.D1.DeğişkenNedir.csproj.CoreCompileInputs.cache
+D:\C# Eğitim\NetFramework\NetFramework.D1.DeğişkenNedir\obj\Debug\NetFramework.D1.DeğişkenNedir.exe
+D:\C# Eğitim\NetFramework\NetFramework.D1.DeğişkenNedir\obj\Debug\NetFramework.D1.DeğişkenNedir.pdb

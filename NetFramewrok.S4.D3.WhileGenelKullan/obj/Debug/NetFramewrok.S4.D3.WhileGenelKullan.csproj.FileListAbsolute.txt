@@ -1,0 +1,7 @@
+D:\C# Eğitim\NetFramework\NetFramewrok.S4.D3.WhileGenelKullan\bin\Debug\NetFramewrok.S4.D3.WhileGenelKullan.exe.config
+D:\C# Eğitim\NetFramework\NetFramewrok.S4.D3.WhileGenelKullan\bin\Debug\NetFramewrok.S4.D3.WhileGenelKullan.exe
+D:\C# Eğitim\NetFramework\NetFramewrok.S4.D3.WhileGenelKullan\bin\Debug\NetFramewrok.S4.D3.WhileGenelKullan.pdb
+D:\C# Eğitim\NetFramework\NetFramewrok.S4.D3.WhileGenelKullan\obj\Debug\NetFramewrok.S4.D3.WhileGenelKullan.csprojAssemblyReference.cache
+D:\C# Eğitim\NetFramework\NetFramewrok.S4.D3.WhileGenelKullan\obj\Debug\NetFramewrok.S4.D3.WhileGenelKullan.csproj.CoreCompileInputs.cache
+D:\C# Eğitim\NetFramework\NetFramewrok.S4.D3.WhileGenelKullan\obj\Debug\NetFramewrok.S4.D3.WhileGenelKullan.exe
+D:\C# Eğitim\NetFramework\NetFramewrok.S4.D3.WhileGenelKullan\obj\Debug\NetFramewrok.S4.D3.WhileGenelKullan.pdb

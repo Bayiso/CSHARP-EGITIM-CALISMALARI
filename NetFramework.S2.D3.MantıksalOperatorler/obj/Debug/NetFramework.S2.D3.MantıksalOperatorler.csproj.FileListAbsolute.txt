@@ -1,0 +1,7 @@
+D:\C# Eğitim\NetFramework\NetFramework.S2.D3.MantıksalOperatorler\bin\Debug\NetFramework.S2.D3.MantıksalOperatorler.exe.config
+D:\C# Eğitim\NetFramework\NetFramework.S2.D3.MantıksalOperatorler\bin\Debug\NetFramework.S2.D3.MantıksalOperatorler.exe
+D:\C# Eğitim\NetFramework\NetFramework.S2.D3.MantıksalOperatorler\bin\Debug\NetFramework.S2.D3.MantıksalOperatorler.pdb
+D:\C# Eğitim\NetFramework\NetFramework.S2.D3.MantıksalOperatorler\obj\Debug\NetFramework.S2.D3.MantıksalOperatorler.csprojAssemblyReference.cache
+D:\C# Eğitim\NetFramework\NetFramework.S2.D3.MantıksalOperatorler\obj\Debug\NetFramework.S2.D3.MantıksalOperatorler.csproj.CoreCompileInputs.cache
+D:\C# Eğitim\NetFramework\NetFramework.S2.D3.MantıksalOperatorler\obj\Debug\NetFramework.S2.D3.MantıksalOperatorler.exe
+D:\C# Eğitim\NetFramework\NetFramework.S2.D3.MantıksalOperatorler\obj\Debug\NetFramework.S2.D3.MantıksalOperatorler.pdb

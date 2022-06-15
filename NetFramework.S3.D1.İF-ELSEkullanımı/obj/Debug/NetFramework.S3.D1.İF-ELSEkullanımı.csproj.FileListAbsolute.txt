@@ -1,0 +1,7 @@
+D:\C# Eğitim\NetFramework\NetFramework.S3.D1.İF-ELSEkullanımı\obj\Debug\NetFramework.S3.D1.İF-ELSEkullanımı.csprojAssemblyReference.cache
+D:\C# Eğitim\NetFramework\NetFramework.S3.D1.İF-ELSEkullanımı\obj\Debug\NetFramework.S3.D1.İF-ELSEkullanımı.csproj.CoreCompileInputs.cache
+D:\C# Eğitim\NetFramework\NetFramework.S3.D1.İF-ELSEkullanımı\bin\Debug\NetFramework.S3.D1.İF-ELSEkullanımı.exe.config
+D:\C# Eğitim\NetFramework\NetFramework.S3.D1.İF-ELSEkullanımı\bin\Debug\NetFramework.S3.D1.İF-ELSEkullanımı.exe
+D:\C# Eğitim\NetFramework\NetFramework.S3.D1.İF-ELSEkullanımı\bin\Debug\NetFramework.S3.D1.İF-ELSEkullanımı.pdb
+D:\C# Eğitim\NetFramework\NetFramework.S3.D1.İF-ELSEkullanımı\obj\Debug\NetFramework.S3.D1.İF-ELSEkullanımı.exe
+D:\C# Eğitim\NetFramework\NetFramework.S3.D1.İF-ELSEkullanımı\obj\Debug\NetFramework.S3.D1.İF-ELSEkullanımı.pdb

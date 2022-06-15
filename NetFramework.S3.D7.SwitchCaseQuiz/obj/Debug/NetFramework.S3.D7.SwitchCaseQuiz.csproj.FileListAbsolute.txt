@@ -1,0 +1,7 @@
+D:\C# Eğitim\NetFramework\NetFramework.S3.D7.SwitchCaseQuiz\bin\Debug\NetFramework.S3.D7.SwitchCaseQuiz.exe.config
+D:\C# Eğitim\NetFramework\NetFramework.S3.D7.SwitchCaseQuiz\bin\Debug\NetFramework.S3.D7.SwitchCaseQuiz.exe
+D:\C# Eğitim\NetFramework\NetFramework.S3.D7.SwitchCaseQuiz\bin\Debug\NetFramework.S3.D7.SwitchCaseQuiz.pdb
+D:\C# Eğitim\NetFramework\NetFramework.S3.D7.SwitchCaseQuiz\obj\Debug\NetFramework.S3.D7.SwitchCaseQuiz.csprojAssemblyReference.cache
+D:\C# Eğitim\NetFramework\NetFramework.S3.D7.SwitchCaseQuiz\obj\Debug\NetFramework.S3.D7.SwitchCaseQuiz.csproj.CoreCompileInputs.cache
+D:\C# Eğitim\NetFramework\NetFramework.S3.D7.SwitchCaseQuiz\obj\Debug\NetFramework.S3.D7.SwitchCaseQuiz.exe
+D:\C# Eğitim\NetFramework\NetFramework.S3.D7.SwitchCaseQuiz\obj\Debug\NetFramework.S3.D7.SwitchCaseQuiz.pdb

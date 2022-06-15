@@ -1,0 +1,7 @@
+D:\C# Eğitim\NetFramework\NetFramework.S6.D1.ArrayListeler\obj\Debug\NetFramework.S6.D1.ArrayListelerGenelKullanim.csprojAssemblyReference.cache
+D:\C# Eğitim\NetFramework\NetFramework.S6.D1.ArrayListeler\obj\Debug\NetFramework.S6.D1.ArrayListelerGenelKullanim.csproj.CoreCompileInputs.cache
+D:\C# Eğitim\NetFramework\NetFramework.S6.D1.ArrayListeler\bin\Debug\NetFramework.S6.D1.ArrayListeler.exe.config
+D:\C# Eğitim\NetFramework\NetFramework.S6.D1.ArrayListeler\bin\Debug\NetFramework.S6.D1.ArrayListeler.exe
+D:\C# Eğitim\NetFramework\NetFramework.S6.D1.ArrayListeler\bin\Debug\NetFramework.S6.D1.ArrayListeler.pdb
+D:\C# Eğitim\NetFramework\NetFramework.S6.D1.ArrayListeler\obj\Debug\NetFramework.S6.D1.ArrayListeler.exe
+D:\C# Eğitim\NetFramework\NetFramework.S6.D1.ArrayListeler\obj\Debug\NetFramework.S6.D1.ArrayListeler.pdb

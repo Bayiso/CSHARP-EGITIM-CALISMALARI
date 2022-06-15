@@ -1,0 +1,7 @@
+D:\C# Eğitim\NetFramework\NetFramework.S.D6.DiziNedir\bin\Debug\NetFramework.S.D6.DiziNedir.exe.config
+D:\C# Eğitim\NetFramework\NetFramework.S.D6.DiziNedir\bin\Debug\NetFramework.S.D6.DiziNedir.exe
+D:\C# Eğitim\NetFramework\NetFramework.S.D6.DiziNedir\bin\Debug\NetFramework.S.D6.DiziNedir.pdb
+D:\C# Eğitim\NetFramework\NetFramework.S.D6.DiziNedir\obj\Debug\NetFramework.S4.D6.DiziNedir.csprojAssemblyReference.cache
+D:\C# Eğitim\NetFramework\NetFramework.S.D6.DiziNedir\obj\Debug\NetFramework.S4.D6.DiziNedir.csproj.CoreCompileInputs.cache
+D:\C# Eğitim\NetFramework\NetFramework.S.D6.DiziNedir\obj\Debug\NetFramework.S.D6.DiziNedir.exe
+D:\C# Eğitim\NetFramework\NetFramework.S.D6.DiziNedir\obj\Debug\NetFramework.S.D6.DiziNedir.pdb

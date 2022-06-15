@@ -1,0 +1,7 @@
+D:\C# Eğitim\NetFramework\NetFramework.S4.D1.ForGenelKullanim\bin\Debug\NetFramework.S4.D1.ForGenelKullanim.exe.config
+D:\C# Eğitim\NetFramework\NetFramework.S4.D1.ForGenelKullanim\bin\Debug\NetFramework.S4.D1.ForGenelKullanim.exe
+D:\C# Eğitim\NetFramework\NetFramework.S4.D1.ForGenelKullanim\bin\Debug\NetFramework.S4.D1.ForGenelKullanim.pdb
+D:\C# Eğitim\NetFramework\NetFramework.S4.D1.ForGenelKullanim\obj\Debug\NetFramework.S4.D1.ForGenelKullanim.csprojAssemblyReference.cache
+D:\C# Eğitim\NetFramework\NetFramework.S4.D1.ForGenelKullanim\obj\Debug\NetFramework.S4.D1.ForGenelKullanim.csproj.CoreCompileInputs.cache
+D:\C# Eğitim\NetFramework\NetFramework.S4.D1.ForGenelKullanim\obj\Debug\NetFramework.S4.D1.ForGenelKullanim.exe
+D:\C# Eğitim\NetFramework\NetFramework.S4.D1.ForGenelKullanim\obj\Debug\NetFramework.S4.D1.ForGenelKullanim.pdb

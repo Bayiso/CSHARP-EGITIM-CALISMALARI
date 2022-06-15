@@ -1,0 +1,7 @@
+D:\C# Eğitim\NetFramework\UYGULAMA6\bin\Debug\UYGULAMA6.exe.config
+D:\C# Eğitim\NetFramework\UYGULAMA6\bin\Debug\UYGULAMA6.exe
+D:\C# Eğitim\NetFramework\UYGULAMA6\bin\Debug\UYGULAMA6.pdb
+D:\C# Eğitim\NetFramework\UYGULAMA6\obj\Debug\UYGULAMA6.csprojAssemblyReference.cache
+D:\C# Eğitim\NetFramework\UYGULAMA6\obj\Debug\UYGULAMA6.csproj.CoreCompileInputs.cache
+D:\C# Eğitim\NetFramework\UYGULAMA6\obj\Debug\UYGULAMA6.exe
+D:\C# Eğitim\NetFramework\UYGULAMA6\obj\Debug\UYGULAMA6.pdb

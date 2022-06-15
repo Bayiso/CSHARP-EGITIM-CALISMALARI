@@ -1,0 +1,7 @@
+D:\C# Eğitim\NetFramework\NetFramework.S3.D5.IFElseIfQuiz1\obj\Debug\NetFramework.S3.D5.IFElseIfQuiz1.csprojAssemblyReference.cache
+D:\C# Eğitim\NetFramework\NetFramework.S3.D5.IFElseIfQuiz1\obj\Debug\NetFramework.S3.D5.IFElseIfQuiz1.csproj.CoreCompileInputs.cache
+D:\C# Eğitim\NetFramework\NetFramework.S3.D5.IFElseIfQuiz1\bin\Debug\NetFramework.S3.D5.IFElseIfQuiz1.exe.config
+D:\C# Eğitim\NetFramework\NetFramework.S3.D5.IFElseIfQuiz1\bin\Debug\NetFramework.S3.D5.IFElseIfQuiz1.exe
+D:\C# Eğitim\NetFramework\NetFramework.S3.D5.IFElseIfQuiz1\bin\Debug\NetFramework.S3.D5.IFElseIfQuiz1.pdb
+D:\C# Eğitim\NetFramework\NetFramework.S3.D5.IFElseIfQuiz1\obj\Debug\NetFramework.S3.D5.IFElseIfQuiz1.exe
+D:\C# Eğitim\NetFramework\NetFramework.S3.D5.IFElseIfQuiz1\obj\Debug\NetFramework.S3.D5.IFElseIfQuiz1.pdb

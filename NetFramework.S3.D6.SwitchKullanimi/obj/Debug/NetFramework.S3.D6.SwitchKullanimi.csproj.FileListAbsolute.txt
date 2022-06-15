@@ -1,0 +1,7 @@
+D:\C# Eğitim\NetFramework\NetFramework.S3.D6.SwitchKullanimi\bin\Debug\NetFramework.S3.D6.SwitchKullanimi.exe.config
+D:\C# Eğitim\NetFramework\NetFramework.S3.D6.SwitchKullanimi\bin\Debug\NetFramework.S3.D6.SwitchKullanimi.exe
+D:\C# Eğitim\NetFramework\NetFramework.S3.D6.SwitchKullanimi\bin\Debug\NetFramework.S3.D6.SwitchKullanimi.pdb
+D:\C# Eğitim\NetFramework\NetFramework.S3.D6.SwitchKullanimi\obj\Debug\NetFramework.S3.D6.SwitchKullanimi.csprojAssemblyReference.cache
+D:\C# Eğitim\NetFramework\NetFramework.S3.D6.SwitchKullanimi\obj\Debug\NetFramework.S3.D6.SwitchKullanimi.csproj.CoreCompileInputs.cache
+D:\C# Eğitim\NetFramework\NetFramework.S3.D6.SwitchKullanimi\obj\Debug\NetFramework.S3.D6.SwitchKullanimi.exe
+D:\C# Eğitim\NetFramework\NetFramework.S3.D6.SwitchKullanimi\obj\Debug\NetFramework.S3.D6.SwitchKullanimi.pdb

@@ -1,0 +1,7 @@
+D:\C# Eğitim\NetFramework\NetFramework.S2.D2.Karşılaştırmaoperatörleri\bin\Debug\NetFramework.S2.D2.Karşılaştırmaoperatörleri.exe.config
+D:\C# Eğitim\NetFramework\NetFramework.S2.D2.Karşılaştırmaoperatörleri\bin\Debug\NetFramework.S2.D2.Karşılaştırmaoperatörleri.exe
+D:\C# Eğitim\NetFramework\NetFramework.S2.D2.Karşılaştırmaoperatörleri\bin\Debug\NetFramework.S2.D2.Karşılaştırmaoperatörleri.pdb
+D:\C# Eğitim\NetFramework\NetFramework.S2.D2.Karşılaştırmaoperatörleri\obj\Debug\NetFramework.S2.D2.Karşılaştırmaoperatörleri.csprojAssemblyReference.cache
+D:\C# Eğitim\NetFramework\NetFramework.S2.D2.Karşılaştırmaoperatörleri\obj\Debug\NetFramework.S2.D2.Karşılaştırmaoperatörleri.csproj.CoreCompileInputs.cache
+D:\C# Eğitim\NetFramework\NetFramework.S2.D2.Karşılaştırmaoperatörleri\obj\Debug\NetFramework.S2.D2.Karşılaştırmaoperatörleri.exe
+D:\C# Eğitim\NetFramework\NetFramework.S2.D2.Karşılaştırmaoperatörleri\obj\Debug\NetFramework.S2.D2.Karşılaştırmaoperatörleri.pdb

@@ -1,0 +1,7 @@
+D:\C# Eğitim\NetFramework\NetFramework.S7.D1.MetotGenelTanım\obj\Debug\NetFramework.S7.D1.MetotGenelTanım.csprojAssemblyReference.cache
+D:\C# Eğitim\NetFramework\NetFramework.S7.D1.MetotGenelTanım\obj\Debug\NetFramework.S7.D1.MetotGenelTanım.csproj.CoreCompileInputs.cache
+D:\C# Eğitim\NetFramework\NetFramework.S7.D1.MetotGenelTanım\bin\Debug\NetFramework.S7.D1.MetotGenelTanım.exe.config
+D:\C# Eğitim\NetFramework\NetFramework.S7.D1.MetotGenelTanım\bin\Debug\NetFramework.S7.D1.MetotGenelTanım.exe
+D:\C# Eğitim\NetFramework\NetFramework.S7.D1.MetotGenelTanım\bin\Debug\NetFramework.S7.D1.MetotGenelTanım.pdb
+D:\C# Eğitim\NetFramework\NetFramework.S7.D1.MetotGenelTanım\obj\Debug\NetFramework.S7.D1.MetotGenelTanım.exe
+D:\C# Eğitim\NetFramework\NetFramework.S7.D1.MetotGenelTanım\obj\Debug\NetFramework.S7.D1.MetotGenelTanım.pdb

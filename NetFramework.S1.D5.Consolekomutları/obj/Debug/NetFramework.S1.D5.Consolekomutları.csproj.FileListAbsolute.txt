@@ -1,0 +1,7 @@
+D:\C# Eğitim\NetFramework\NetFramework.S1.D5.Consolekomutları\bin\Debug\NetFramework.S1.D5.Consolekomutları.exe.config
+D:\C# Eğitim\NetFramework\NetFramework.S1.D5.Consolekomutları\bin\Debug\NetFramework.S1.D5.Consolekomutları.exe
+D:\C# Eğitim\NetFramework\NetFramework.S1.D5.Consolekomutları\bin\Debug\NetFramework.S1.D5.Consolekomutları.pdb
+D:\C# Eğitim\NetFramework\NetFramework.S1.D5.Consolekomutları\obj\Debug\NetFramework.S1.D5.Consolekomutları.csprojAssemblyReference.cache
+D:\C# Eğitim\NetFramework\NetFramework.S1.D5.Consolekomutları\obj\Debug\NetFramework.S1.D5.Consolekomutları.csproj.CoreCompileInputs.cache
+D:\C# Eğitim\NetFramework\NetFramework.S1.D5.Consolekomutları\obj\Debug\NetFramework.S1.D5.Consolekomutları.exe
+D:\C# Eğitim\NetFramework\NetFramework.S1.D5.Consolekomutları\obj\Debug\NetFramework.S1.D5.Consolekomutları.pdb

@@ -1,0 +1,7 @@
+D:\C# Eğitim\NetFramework\NetFramework.S2.D1.operatörler\bin\Debug\NetFramework.S2.D1.operatörler.exe.config
+D:\C# Eğitim\NetFramework\NetFramework.S2.D1.operatörler\bin\Debug\NetFramework.S2.D1.operatörler.exe
+D:\C# Eğitim\NetFramework\NetFramework.S2.D1.operatörler\bin\Debug\NetFramework.S2.D1.operatörler.pdb
+D:\C# Eğitim\NetFramework\NetFramework.S2.D1.operatörler\obj\Debug\NetFramework.S2.D1.operatörler.csprojAssemblyReference.cache
+D:\C# Eğitim\NetFramework\NetFramework.S2.D1.operatörler\obj\Debug\NetFramework.S2.D1.operatörler.csproj.CoreCompileInputs.cache
+D:\C# Eğitim\NetFramework\NetFramework.S2.D1.operatörler\obj\Debug\NetFramework.S2.D1.operatörler.exe
+D:\C# Eğitim\NetFramework\NetFramework.S2.D1.operatörler\obj\Debug\NetFramework.S2.D1.operatörler.pdb

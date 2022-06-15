@@ -1,0 +1,7 @@
+D:\C# Eğitim\NetFramework\NetFramework.S6.D7.QueueGEnelKulaanimi\bin\Debug\NetFramework.S6.D7.QueueGEnelKulaanimi.exe.config
+D:\C# Eğitim\NetFramework\NetFramework.S6.D7.QueueGEnelKulaanimi\bin\Debug\NetFramework.S6.D7.QueueGEnelKulaanimi.exe
+D:\C# Eğitim\NetFramework\NetFramework.S6.D7.QueueGEnelKulaanimi\bin\Debug\NetFramework.S6.D7.QueueGEnelKulaanimi.pdb
+D:\C# Eğitim\NetFramework\NetFramework.S6.D7.QueueGEnelKulaanimi\obj\Debug\NetFramework.S6.D7.QueueGEnelKulaanimi.csprojAssemblyReference.cache
+D:\C# Eğitim\NetFramework\NetFramework.S6.D7.QueueGEnelKulaanimi\obj\Debug\NetFramework.S6.D7.QueueGEnelKulaanimi.csproj.CoreCompileInputs.cache
+D:\C# Eğitim\NetFramework\NetFramework.S6.D7.QueueGEnelKulaanimi\obj\Debug\NetFramework.S6.D7.QueueGEnelKulaanimi.exe
+D:\C# Eğitim\NetFramework\NetFramework.S6.D7.QueueGEnelKulaanimi\obj\Debug\NetFramework.S6.D7.QueueGEnelKulaanimi.pdb

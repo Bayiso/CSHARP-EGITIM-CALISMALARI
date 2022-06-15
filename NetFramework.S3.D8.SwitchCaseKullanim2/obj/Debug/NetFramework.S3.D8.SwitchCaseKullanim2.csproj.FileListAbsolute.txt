@@ -1,0 +1,6 @@
+D:\C# Eğitim\NetFramework\NetFramework.S3.D8.SwitchCaseKullanim2\bin\Debug\NetFramework.S3.D8.SwitchCaseKullanim2.exe.config
+D:\C# Eğitim\NetFramework\NetFramework.S3.D8.SwitchCaseKullanim2\bin\Debug\NetFramework.S3.D8.SwitchCaseKullanim2.exe
+D:\C# Eğitim\NetFramework\NetFramework.S3.D8.SwitchCaseKullanim2\bin\Debug\NetFramework.S3.D8.SwitchCaseKullanim2.pdb
+D:\C# Eğitim\NetFramework\NetFramework.S3.D8.SwitchCaseKullanim2\obj\Debug\NetFramework.S3.D8.SwitchCaseKullanim2.csproj.CoreCompileInputs.cache
+D:\C# Eğitim\NetFramework\NetFramework.S3.D8.SwitchCaseKullanim2\obj\Debug\NetFramework.S3.D8.SwitchCaseKullanim2.exe
+D:\C# Eğitim\NetFramework\NetFramework.S3.D8.SwitchCaseKullanim2\obj\Debug\NetFramework.S3.D8.SwitchCaseKullanim2.pdb

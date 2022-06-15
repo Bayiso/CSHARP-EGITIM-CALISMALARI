@@ -1,0 +1,7 @@
+D:\C# Eğitim\NetFramework\NetFramework.S1.D4.TurDonusumleri\bin\Debug\NetFramework.S1.D4.TurDonusumleri.exe.config
+D:\C# Eğitim\NetFramework\NetFramework.S1.D4.TurDonusumleri\bin\Debug\NetFramework.S1.D4.TurDonusumleri.exe
+D:\C# Eğitim\NetFramework\NetFramework.S1.D4.TurDonusumleri\bin\Debug\NetFramework.S1.D4.TurDonusumleri.pdb
+D:\C# Eğitim\NetFramework\NetFramework.S1.D4.TurDonusumleri\obj\Debug\NetFramework.S1.D4.TurDonusumleri.csprojAssemblyReference.cache
+D:\C# Eğitim\NetFramework\NetFramework.S1.D4.TurDonusumleri\obj\Debug\NetFramework.S1.D4.TurDonusumleri.csproj.CoreCompileInputs.cache
+D:\C# Eğitim\NetFramework\NetFramework.S1.D4.TurDonusumleri\obj\Debug\NetFramework.S1.D4.TurDonusumleri.exe
+D:\C# Eğitim\NetFramework\NetFramework.S1.D4.TurDonusumleri\obj\Debug\NetFramework.S1.D4.TurDonusumleri.pdb
